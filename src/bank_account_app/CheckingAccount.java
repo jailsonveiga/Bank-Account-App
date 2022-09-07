@@ -1,4 +1,4 @@
-package bank_account_java;
+package bank_account_app;
 
 // Checking Account
 public class CheckingAccount  extends Account{
