@@ -1,4 +1,4 @@
-package bank_account_java;
+package bank_account_app;
 
 // Savings Account child class
 // has an interest rate
